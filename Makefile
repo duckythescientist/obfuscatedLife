@@ -1,2 +1,2 @@
 life: life.c
-	$(CC) life.c -o life
+	$(CC) life.c -ansi -o life
