@@ -1,5 +1,5 @@
 int main(int argc, char* argv[]){
-int _[2048],O=(int)&O,__=~__+__;
+int _[2048],O=(int)&O,__=~__;
 while((__=-~__)^2048)__[_]=(O=(O*0x41C64E6D+12345)&0x7fffffff)&1024?1<<5:0;
 while(usleep('d'<<'\n'),__+=~__){
 while((__=-~__)^8192){
