@@ -18,6 +18,8 @@ The Output:
 -----------
 I'm sure you all know Conway's Game of Life already. 
 
+[![asciicast](https://asciinema.org/a/63fcq0o7f8z1kb39w5y2qmx1t.png)](https://asciinema.org/a/63fcq0o7f8z1kb39w5y2qmx1t)
+
 Spoilers:
 ---------
 Read through remarks.txt if you want to see how it is done.
